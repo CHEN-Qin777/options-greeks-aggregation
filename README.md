@@ -100,7 +100,7 @@ Ce projet est fourni à titre éducatif. Vous êtes libre de l'utiliser et de le
 
 ## 👤 Auteur
 
-Étudiant en Master 2 Mathématiques Financières – Projet de stage.
+Étudiant en Master 2 Mathématiques Financières.
 
 ---
 
